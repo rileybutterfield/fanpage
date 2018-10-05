@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+    background-color:#C70039;
+}
+
+body {
+    height: 100%;
+    text-align: center;
+}
+.header {
+    font-size:50px;
+    color: orange;
+    text-decoration: bold;
+    text-decoration: underline
+}
+a {
+    text-decoration: none;
+    color:orange;
+}
+
+.main {
+    height: 500px;
+    width:100%;
+    background:url("https://images.eatthismuch.com/site_media/img/113316_Laine521_23666893-7c6e-4fe2-a413-18f01b36cabf.png");
+}
+.rightPane {
+    height: 500px;
+    background-image:url("cheezits.png");
+    background-size: cover;
+}
+.leftPane {
+    width: 25%;
+    height: 100%;
+}
+.social-image{
+    width: 30px;
+    margin: 15px;
+}
